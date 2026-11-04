@@ -1,5 +1,5 @@
 {
-"atualizado_em": "2026-11-04T06:25:35.323996+00:00",
+"atualizado_em": "2026-11-04T06:40:59.138830+00:00",
 "categorias": {
 "automotivo": {
 "produto": "MLB24273255"
@@ -41,7 +41,7 @@
 "produto": "MLB80049677"
 },
 "outros": {
-"produto": "MLB61522379"
+"produto": "MLB53816127"
 },
 "pets": {
 "produto": "MLB50437681"
@@ -55,7 +55,7 @@
 "categoria": "ferramentas",
 "data": "2026-11-04",
 "nota": 100,
-"ok": true
+"ok": false
 },
 "MLB13409956": {
 "categoria": "eletrodomesticos",
@@ -558,7 +558,7 @@
 "categoria": "outros",
 "data": "2026-11-04",
 "nota": 100,
-"ok": true
+"ok": false
 },
 "MLB61748341": {
 "categoria": "casa",
