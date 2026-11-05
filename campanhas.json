@@ -1,0 +1,85 @@
+{
+ "atualizado_em": "2026-11-05T04:11:14.405Z",
+ "campanhas": [
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Eletrodomésticos com desconto",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-95f61dbceab2e978e67235030a9932b4",
+   "link": "https://s.shopee.com.br/9fMDUiKq7T",
+   "slug": "eletrodomesticos",
+   "fim": ""
+  },
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Celulares e acessórios",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-8227fa610864a8efb18c7ee15290dd7b",
+   "link": "https://s.shopee.com.br/114FAmrphq",
+   "slug": "celulares",
+   "fim": ""
+  },
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Moda feminina",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-111d4ee81a591253da7f8a9fc2775860",
+   "link": "https://s.shopee.com.br/BV8BFv0Oj",
+   "slug": "moda",
+   "fim": ""
+  },
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Beleza em oferta",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-6a8d385a65f7683d87446cc79f1e10dd",
+   "link": "https://s.shopee.com.br/1Lh5ZOqZ24",
+   "slug": "beleza",
+   "fim": ""
+  },
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Mundo pet",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-12e45bb7e438ca328d11c3153c009fe7",
+   "link": "https://s.shopee.com.br/1W0Vlhpvh7",
+   "slug": "pets",
+   "fim": ""
+  },
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Tudo para o bebê",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-d0c33a566139eb229b8b467915cc8a85",
+   "link": "https://s.shopee.com.br/1gJvy0pIMA",
+   "slug": "bebes",
+   "fim": ""
+  },
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Casa e construção",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-69c63b2deabe837ed5f41fd5d9b84762",
+   "link": "https://s.shopee.com.br/3g50LghgIc",
+   "slug": "casa",
+   "fim": ""
+  },
+  {
+   "tipo": "categoria",
+   "loja": "Shopee",
+   "titulo": "Esporte e lazer",
+   "subtitulo": "Seleção oficial da Shopee",
+   "imagem": "https://cf.shopee.com.br/file/br-50009109-a389e344f21bbd6a0903a38a0e30def0",
+   "link": "https://s.shopee.com.br/3qOQXzh2xf",
+   "slug": "esportes",
+   "fim": ""
+  }
+ ]
+}
