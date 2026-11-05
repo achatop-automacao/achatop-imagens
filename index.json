@@ -1,35 +1,35 @@
 {
-"atualizado_em": "2026-11-05T04:11:13.198727+00:00",
+"atualizado_em": "2026-11-05T04:53:20.649242+00:00",
 "categorias": {
 "automotivo": {
 "produto": "MLB24273255"
 },
 "bebes": {
-"produto": "MLB39377594"
+"produto": "MLB65369406"
 },
 "beleza": {
-"produto": "MLB19712619"
+"produto": "MLB24030050"
 },
 "brinquedos": {
-"produto": "MLB62628051"
+"produto": "MLB35217348"
 },
 "casa": {
-"produto": "MLB39871153"
+"produto": "MLB66453791"
 },
 "celulares": {
-"produto": "MLB26059079"
+"produto": "MLB25880439"
 },
 "eletrodomesticos": {
-"produto": "MLB44898096"
+"produto": "MLB19055866"
 },
 "eletronicos": {
-"produto": "MLB70414253"
+"produto": "MLB50309781"
 },
 "esportes": {
 "produto": "MLB65364752"
 },
 "ferramentas": {
-"produto": "MLB23873203"
+"produto": "MLB15355201"
 },
 "games": {
 "produto": "MLB51856257"
@@ -38,16 +38,16 @@
 "produto": "MLB45880631"
 },
 "moda": {
-"produto": "MLB80049677"
+"produto": "MLB68256964"
 },
 "outros": {
 "produto": "MLB53816127"
 },
 "pets": {
-"produto": "MLB50437681"
+"produto": "MLB19857835"
 },
 "saude": {
-"produto": "MLB18630341"
+"produto": "MLB40182325"
 }
 },
 "produtos": {
@@ -931,6 +931,12 @@
 "nota": 83,
 "ok": true
 },
+"MLB19055866": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-05",
+"nota": 96,
+"ok": true
+},
 "MLB19119113": {
 "categoria": "eletrodomesticos",
 "data": "2026-11-04",
@@ -973,6 +979,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB19745649": {
+"categoria": "casa",
+"data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
 "MLB19810227": {
 "categoria": "beleza",
 "data": "2026-11-04",
@@ -991,10 +1003,22 @@
 "nota": 98,
 "ok": true
 },
+"MLB21252460": {
+"categoria": "informatica",
+"data": "2026-11-05",
+"nota": 1,
+"ok": false
+},
 "MLB22211506": {
 "categoria": "informatica",
 "data": "2026-11-04",
 "nota": 100,
+"ok": true
+},
+"MLB22277955": {
+"categoria": "esportes",
+"data": "2026-11-05",
+"nota": 92,
 "ok": true
 },
 "MLB22305960": {
@@ -1025,6 +1049,12 @@
 "categoria": "ferramentas",
 "data": "2026-11-04",
 "nota": 100,
+"ok": true
+},
+"MLB23958420": {
+"categoria": "casa",
+"data": "2026-11-05",
+"nota": 99,
 "ok": true
 },
 "MLB24030050": {
@@ -1087,6 +1117,24 @@
 "nota": 98,
 "ok": true
 },
+"MLB26311188": {
+"categoria": "saude",
+"data": "2026-11-05",
+"nota": 97,
+"ok": true
+},
+"MLB26481087": {
+"categoria": "brinquedos",
+"data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"MLB27577458": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-05",
+"nota": 97,
+"ok": true
+},
 "MLB30542545": {
 "categoria": "automotivo",
 "data": "2026-11-04",
@@ -1104,6 +1152,12 @@
 "data": "2026-11-04",
 "nota": 0,
 "ok": false
+},
+"MLB35217348": {
+"categoria": "brinquedos",
+"data": "2026-11-05",
+"nota": 100,
+"ok": true
 },
 "MLB36476927": {
 "categoria": "informatica",
@@ -1162,6 +1216,12 @@
 "MLB42105593": {
 "categoria": "bebes",
 "data": "2026-11-04",
+"nota": 78,
+"ok": true
+},
+"MLB42134305": {
+"categoria": "ferramentas",
+"data": "2026-11-05",
 "nota": 78,
 "ok": true
 },
@@ -1273,6 +1333,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB51230190": {
+"categoria": "moda",
+"data": "2026-11-05",
+"nota": 97,
+"ok": true
+},
 "MLB51856257": {
 "categoria": "games",
 "data": "2026-11-04",
@@ -1315,6 +1381,12 @@
 "nota": 55,
 "ok": false
 },
+"MLB55898949": {
+"categoria": "ferramentas",
+"data": "2026-11-05",
+"nota": 69,
+"ok": true
+},
 "MLB56546186": {
 "categoria": "beleza",
 "data": "2026-11-04",
@@ -1331,6 +1403,12 @@
 "data": "2026-11-04",
 "nota": 100,
 "ok": true
+},
+"MLB58473761": {
+"categoria": "esportes",
+"data": "2026-11-05",
+"nota": 44,
+"ok": false
 },
 "MLB60416809": {
 "categoria": "beleza",
@@ -1356,6 +1434,12 @@
 "nota": 48,
 "ok": false
 },
+"MLB62040539": {
+"categoria": "eletronicos",
+"data": "2026-11-05",
+"nota": 99,
+"ok": true
+},
 "MLB62445524": {
 "categoria": "ferramentas",
 "data": "2026-11-04",
@@ -1379,6 +1463,12 @@
 "data": "2026-11-04",
 "nota": 57,
 "ok": false
+},
+"MLB63830721": {
+"categoria": "bebes",
+"data": "2026-11-05",
+"nota": 86,
+"ok": true
 },
 "MLB64120198": {
 "categoria": "beleza",
@@ -1416,6 +1506,18 @@
 "nota": 100,
 "ok": true
 },
+"MLB65369406": {
+"categoria": "bebes",
+"data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"MLB65881372": {
+"categoria": "casa",
+"data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
 "MLB65991640": {
 "categoria": "bebes",
 "data": "2026-11-04",
@@ -1434,6 +1536,18 @@
 "nota": 100,
 "ok": true
 },
+"MLB66123182": {
+"categoria": "brinquedos",
+"data": "2026-11-05",
+"nota": 97,
+"ok": true
+},
+"MLB66453791": {
+"categoria": "casa",
+"data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
 "MLB66980166": {
 "categoria": "eletronicos",
 "data": "2026-11-04",
@@ -1443,6 +1557,12 @@
 "MLB68256964": {
 "categoria": "moda",
 "data": "2026-11-04",
+"nota": 100,
+"ok": true
+},
+"MLB68599083": {
+"categoria": "outros",
+"data": "2026-11-05",
 "nota": 100,
 "ok": true
 },
@@ -1482,6 +1602,12 @@
 "nota": 98,
 "ok": true
 },
+"MLB74331737": {
+"categoria": "bebes",
+"data": "2026-11-05",
+"nota": 96,
+"ok": true
+},
 "MLB74743819": {
 "categoria": "brinquedos",
 "data": "2026-11-04",
@@ -1500,6 +1626,12 @@
 "nota": 98,
 "ok": true
 },
+"MLB75917045": {
+"categoria": "eletronicos",
+"data": "2026-11-05",
+"nota": 99,
+"ok": true
+},
 "MLB76570881": {
 "categoria": "automotivo",
 "data": "2026-11-04",
@@ -1510,6 +1642,12 @@
 "categoria": "brinquedos",
 "data": "2026-11-04",
 "nota": 73,
+"ok": false
+},
+"MLB78746844": {
+"categoria": "eletronicos",
+"data": "2026-11-05",
+"nota": 75,
 "ok": false
 },
 "MLB7979276": {
@@ -1534,6 +1672,12 @@
 "categoria": "beleza",
 "data": "2026-11-04",
 "nota": 100,
+"ok": true
+},
+"MLB9964705": {
+"categoria": "brinquedos",
+"data": "2026-11-05",
+"nota": 89,
 "ok": true
 }
 },
