@@ -1,5 +1,5 @@
 {
-"atualizado_em": "2026-11-07T10:09:25.459157+00:00",
+"atualizado_em": "2026-11-08T06:06:42.099241+00:00",
 "categorias": {
 "automotivo": {
 "produto": "MLB62564330"
@@ -136,6 +136,11 @@
 "nota": 100,
 "ok": true
 },
+"18999727561": {
+"data": "2026-11-08",
+"nota": 99,
+"ok": true
+},
 "19097689755": {
 "data": "2026-11-05",
 "nota": 99,
@@ -221,6 +226,11 @@
 "nota": 0,
 "ok": false
 },
+"20697344113": {
+"data": "2026-11-08",
+"nota": 100,
+"ok": true
+},
 "20697638515": {
 "data": "2026-11-05",
 "nota": 79,
@@ -254,6 +264,11 @@
 "20999447436": {
 "data": "2026-11-05",
 "nota": 83,
+"ok": true
+},
+"21099836557": {
+"data": "2026-11-08",
+"nota": 100,
 "ok": true
 },
 "21198873155": {
@@ -491,6 +506,11 @@
 "nota": 100,
 "ok": true
 },
+"22999553517": {
+"data": "2026-11-08",
+"nota": 100,
+"ok": false
+},
 "23093204805": {
 "data": "2026-11-05",
 "nota": 96,
@@ -509,6 +529,11 @@
 "23094919057": {
 "data": "2026-11-05",
 "nota": 79,
+"ok": true
+},
+"23099337262": {
+"data": "2026-11-08",
+"nota": 96,
 "ok": true
 },
 "23136366164": {
@@ -581,6 +606,11 @@
 "nota": 100,
 "ok": true
 },
+"23493522483": {
+"data": "2026-11-08",
+"nota": 100,
+"ok": true
+},
 "23493583730": {
 "data": "2026-11-06",
 "nota": 91,
@@ -619,6 +649,11 @@
 "23595031567": {
 "data": "2026-11-05",
 "nota": 91,
+"ok": true
+},
+"23597637613": {
+"data": "2026-11-08",
+"nota": 98,
 "ok": true
 },
 "23692999750": {
@@ -941,6 +976,11 @@
 "nota": 100,
 "ok": true
 },
+"58212287963": {
+"data": "2026-11-08",
+"nota": 74,
+"ok": false
+},
 "58212306576": {
 "data": "2026-11-05",
 "nota": 100,
@@ -1026,6 +1066,11 @@
 "nota": 50,
 "ok": false
 },
+"58254696881": {
+"data": "2026-11-08",
+"nota": 96,
+"ok": true
+},
 "58255254934": {
 "data": "2026-11-05",
 "nota": 0,
@@ -1085,6 +1130,11 @@
 "data": "2026-11-05",
 "nota": 0,
 "ok": false
+},
+"58264632349": {
+"data": "2026-11-08",
+"nota": 100,
+"ok": true
 },
 "58265110798": {
 "data": "2026-11-05",
@@ -1154,6 +1204,12 @@
 "MLB15057629": {
 "categoria": "eletrodomesticos",
 "data": "2026-11-06",
+"nota": 100,
+"ok": true
+},
+"MLB15085755": {
+"categoria": "games",
+"data": "2026-11-08",
 "nota": 100,
 "ok": true
 },
@@ -1355,6 +1411,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB19925970": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-08",
+"nota": 100,
+"ok": true
+},
 "MLB20662382": {
 "categoria": "eletronicos",
 "data": "2026-11-04",
@@ -1529,6 +1591,12 @@
 "nota": 99,
 "ok": true
 },
+"MLB25363151": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-08",
+"nota": 86,
+"ok": true
+},
 "MLB25656186": {
 "categoria": "brinquedos",
 "data": "2026-11-06",
@@ -1669,9 +1737,9 @@
 },
 "MLB34506161": {
 "categoria": "esportes",
-"data": "2026-11-07",
+"data": "2026-11-08",
 "nota": 100,
-"ok": true
+"ok": false
 },
 "MLB34725109": {
 "categoria": "saude",
@@ -1829,6 +1897,12 @@
 "nota": 100,
 "ok": false
 },
+"MLB43201177": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-08",
+"nota": 100,
+"ok": true
+},
 "MLB43954645": {
 "categoria": "casa",
 "data": "2026-11-07",
@@ -1937,9 +2011,21 @@
 "nota": 34,
 "ok": false
 },
+"MLB46634628": {
+"categoria": "eletronicos",
+"data": "2026-11-08",
+"nota": 99,
+"ok": true
+},
 "MLB46968460": {
 "categoria": "esportes",
 "data": "2026-11-07",
+"nota": 100,
+"ok": true
+},
+"MLB47251297": {
+"categoria": "informatica",
+"data": "2026-11-08",
 "nota": 100,
 "ok": true
 },
@@ -2033,6 +2119,12 @@
 "nota": 69,
 "ok": true
 },
+"MLB50722875": {
+"categoria": "informatica",
+"data": "2026-11-08",
+"nota": 99,
+"ok": true
+},
 "MLB50873621": {
 "categoria": "eletrodomesticos",
 "data": "2026-11-06",
@@ -2116,6 +2208,12 @@
 "data": "2026-11-07",
 "nota": 0,
 "ok": false
+},
+"MLB54473693": {
+"categoria": "beleza",
+"data": "2026-11-08",
+"nota": 76,
+"ok": true
 },
 "MLB54631711": {
 "categoria": "saude",
@@ -2224,6 +2322,12 @@
 "nota": 65,
 "ok": false
 },
+"MLB61319918": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-08",
+"nota": 85,
+"ok": true
+},
 "MLB61376192": {
 "categoria": "esportes",
 "data": "2026-11-06",
@@ -2238,9 +2342,9 @@
 },
 "MLB61702644": {
 "categoria": "informatica",
-"data": "2026-11-07",
+"data": "2026-11-08",
 "nota": 89,
-"ok": true
+"ok": false
 },
 "MLB61748341": {
 "categoria": "casa",
@@ -2271,6 +2375,12 @@
 "data": "2026-11-07",
 "nota": 99,
 "ok": true
+},
+"MLB62575737": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-08",
+"nota": 60,
+"ok": false
 },
 "MLB62628051": {
 "categoria": "brinquedos",
@@ -2502,9 +2612,9 @@
 },
 "MLB69695756": {
 "categoria": "eletronicos",
-"data": "2026-11-07",
+"data": "2026-11-08",
 "nota": 98,
-"ok": true
+"ok": false
 },
 "MLB69700255": {
 "categoria": "esportes",
@@ -2673,6 +2783,12 @@
 "data": "2026-11-07",
 "nota": 50,
 "ok": false
+},
+"MLB79392565": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-08",
+"nota": 100,
+"ok": true
 },
 "MLB7979276": {
 "categoria": "celulares",
