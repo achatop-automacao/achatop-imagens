@@ -1,11 +1,11 @@
 {
-"atualizado_em": "2026-11-08T10:03:25.310035+00:00",
+"atualizado_em": "2026-11-10T10:20:10.250274+00:00",
 "categorias": {
 "automotivo": {
-"produto": "MLB62564330"
+"produto": "MLB6106454"
 },
 "bebes": {
-"produto": "MLB37883472"
+"produto": "MLB70242929"
 },
 "beleza": {
 "produto": "MLB41038891"
@@ -47,7 +47,7 @@
 "produto": "MLB15982844"
 },
 "saude": {
-"produto": "MLB40182325"
+"produto": "MLB18949520"
 }
 },
 "produtos": {
@@ -59,6 +59,11 @@
 "11086604605": {
 "data": "2026-11-05",
 "nota": 100,
+"ok": true
+},
+"11720146857": {
+"data": "2026-11-10",
+"nota": 99,
 "ok": true
 },
 "12093780342": {
@@ -78,6 +83,11 @@
 },
 "15269120220": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"15894161282": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -104,6 +114,16 @@
 "18299949228": {
 "data": "2026-11-05",
 "nota": 100,
+"ok": true
+},
+"18397642746": {
+"data": "2026-11-10",
+"nota": 80,
+"ok": true
+},
+"18398161750": {
+"data": "2026-11-10",
+"nota": 77,
 "ok": true
 },
 "18497750315": {
@@ -156,6 +176,11 @@
 "nota": 57,
 "ok": false
 },
+"19202171094": {
+"data": "2026-11-10",
+"nota": 92,
+"ok": true
+},
 "19299193168": {
 "data": "2026-11-05",
 "nota": 96,
@@ -166,9 +191,24 @@
 "nota": 87,
 "ok": true
 },
+"19499664683": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "19597808942": {
 "data": "2026-11-05",
 "nota": 100,
+"ok": true
+},
+"19650049732": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": false
+},
+"19697980846": {
+"data": "2026-11-10",
+"nota": 64,
 "ok": true
 },
 "19699664809": {
@@ -221,6 +261,11 @@
 "nota": 89,
 "ok": true
 },
+"20497747334": {
+"data": "2026-11-10",
+"nota": 0,
+"ok": false
+},
 "20497747354": {
 "data": "2026-11-05",
 "nota": 0,
@@ -256,14 +301,29 @@
 "nota": 27,
 "ok": false
 },
+"20798022468": {
+"data": "2026-11-10",
+"nota": 95,
+"ok": true
+},
 "20798133281": {
 "data": "2026-11-05",
 "nota": 50,
 "ok": false
 },
+"20899368696": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "20999447436": {
 "data": "2026-11-05",
 "nota": 83,
+"ok": true
+},
+"21072126537": {
+"data": "2026-11-10",
+"nota": 85,
 "ok": true
 },
 "21099836557": {
@@ -278,6 +338,11 @@
 },
 "21297874783": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"21350045063": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -303,6 +368,11 @@
 },
 "21798660987": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"21897495054": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -346,6 +416,11 @@
 "nota": 78,
 "ok": false
 },
+"22197499150": {
+"data": "2026-11-10",
+"nota": 95,
+"ok": true
+},
 "22197514607": {
 "data": "2026-11-06",
 "nota": 94,
@@ -371,6 +446,11 @@
 "nota": 100,
 "ok": true
 },
+"22293293060": {
+"data": "2026-11-10",
+"nota": 95,
+"ok": true
+},
 "22297687819": {
 "data": "2026-11-05",
 "nota": 100,
@@ -388,6 +468,16 @@
 },
 "22392646521": {
 "data": "2026-11-06",
+"nota": 100,
+"ok": true
+},
+"22393114649": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"22401382655": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -415,6 +505,11 @@
 "data": "2026-11-05",
 "nota": 97,
 "ok": true
+},
+"22498213091": {
+"data": "2026-11-10",
+"nota": 1,
+"ok": false
 },
 "22498910656": {
 "data": "2026-11-05",
@@ -456,8 +551,23 @@
 "nota": 100,
 "ok": true
 },
+"22598549816": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"22598781244": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "22693731888": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"22693848980": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -466,14 +576,39 @@
 "nota": 50,
 "ok": false
 },
+"22694420249": {
+"data": "2026-11-10",
+"nota": 58,
+"ok": false
+},
+"22698073313": {
+"data": "2026-11-10",
+"nota": 98,
+"ok": true
+},
 "22698676055": {
 "data": "2026-11-05",
 "nota": 95,
 "ok": true
 },
+"22698926244": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "22794554573": {
 "data": "2026-11-05",
 "nota": 100,
+"ok": true
+},
+"22794871872": {
+"data": "2026-11-10",
+"nota": 36,
+"ok": false
+},
+"22798449853": {
+"data": "2026-11-10",
+"nota": 73,
 "ok": true
 },
 "22892833180": {
@@ -495,6 +630,11 @@
 "data": "2026-11-05",
 "nota": 100,
 "ok": true
+},
+"22993201309": {
+"data": "2026-11-10",
+"nota": 43,
+"ok": false
 },
 "22996990437": {
 "data": "2026-11-07",
@@ -531,6 +671,16 @@
 "nota": 79,
 "ok": true
 },
+"23098028068": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"23098514593": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "23099337262": {
 "data": "2026-11-08",
 "nota": 96,
@@ -538,6 +688,11 @@
 },
 "23136366164": {
 "data": "2026-11-06",
+"nota": 100,
+"ok": true
+},
+"23192513205": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -551,9 +706,24 @@
 "nota": 8,
 "ok": false
 },
+"23198205483": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"23198510819": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "23198845672": {
 "data": "2026-11-06",
 "nota": 91,
+"ok": true
+},
+"23293230409": {
+"data": "2026-11-10",
+"nota": 83,
 "ok": true
 },
 "23293253949": {
@@ -566,10 +736,25 @@
 "nota": 96,
 "ok": true
 },
+"23293882215": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "23294299174": {
 "data": "2026-11-06",
 "nota": 100,
 "ok": true
+},
+"23294403143": {
+"data": "2026-11-10",
+"nota": 85,
+"ok": true
+},
+"23296759926": {
+"data": "2026-11-10",
+"nota": 50,
+"ok": false
 },
 "23298685164": {
 "data": "2026-11-05",
@@ -586,8 +771,18 @@
 "nota": 92,
 "ok": true
 },
+"23393881853": {
+"data": "2026-11-10",
+"nota": 95,
+"ok": true
+},
 "23394191810": {
 "data": "2026-11-06",
+"nota": 100,
+"ok": true
+},
+"23394342239": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -628,6 +823,11 @@
 },
 "23494418184": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"23494418394": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -696,6 +896,11 @@
 "nota": 53,
 "ok": false
 },
+"23893056825": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": false
+},
 "23893627187": {
 "data": "2026-11-06",
 "nota": 6,
@@ -706,9 +911,19 @@
 "nota": 99,
 "ok": true
 },
+"23899447759": {
+"data": "2026-11-10",
+"nota": 81,
+"ok": true
+},
 "24248336339": {
 "data": "2026-11-05",
 "nota": 94,
+"ok": true
+},
+"25046330542": {
+"data": "2026-11-10",
+"nota": 96,
 "ok": true
 },
 "27424641606": {
@@ -726,13 +941,28 @@
 "nota": 99,
 "ok": true
 },
+"28369741532": {
+"data": "2026-11-10",
+"nota": 95,
+"ok": true
+},
 "28773725319": {
 "data": "2026-11-05",
 "nota": 99,
 "ok": true
 },
+"29028867072": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "29392573808": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"2986843310": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -776,6 +1006,11 @@
 "nota": 81,
 "ok": true
 },
+"44074380649": {
+"data": "2026-11-10",
+"nota": 99,
+"ok": true
+},
 "44553066762": {
 "data": "2026-11-06",
 "nota": 95,
@@ -783,6 +1018,11 @@
 },
 "44618046042": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"44959639811": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -821,6 +1061,11 @@
 "nota": 100,
 "ok": true
 },
+"48703194596": {
+"data": "2026-11-10",
+"nota": 96,
+"ok": true
+},
 "48905656409": {
 "data": "2026-11-05",
 "nota": 100,
@@ -835,6 +1080,16 @@
 "data": "2026-11-05",
 "nota": 97,
 "ok": true
+},
+"49610072279": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"49617570216": {
+"data": "2026-11-10",
+"nota": 73,
+"ok": false
 },
 "50461311439": {
 "data": "2026-11-05",
@@ -851,6 +1106,11 @@
 "nota": 87,
 "ok": true
 },
+"52453010588": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "53510033778": {
 "data": "2026-11-05",
 "nota": 100,
@@ -861,9 +1121,19 @@
 "nota": 100,
 "ok": true
 },
+"54166806189": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "54311117268": {
 "data": "2026-11-06",
 "nota": 100,
+"ok": true
+},
+"54359629558": {
+"data": "2026-11-10",
+"nota": 79,
 "ok": true
 },
 "54667533756": {
@@ -881,9 +1151,29 @@
 "nota": 0,
 "ok": false
 },
+"55816802474": {
+"data": "2026-11-10",
+"nota": 99,
+"ok": true
+},
+"56100932181": {
+"data": "2026-11-10",
+"nota": 99,
+"ok": true
+},
 "56367151626": {
 "data": "2026-11-05",
 "nota": 100,
+"ok": true
+},
+"57560033849": {
+"data": "2026-11-10",
+"nota": 77,
+"ok": true
+},
+"57707127537": {
+"data": "2026-11-10",
+"nota": 85,
 "ok": true
 },
 "57863165599": {
@@ -900,6 +1190,11 @@
 "data": "2026-11-05",
 "nota": 100,
 "ok": true
+},
+"58200780378": {
+"data": "2026-11-10",
+"nota": 56,
+"ok": false
 },
 "58201644897": {
 "data": "2026-11-05",
@@ -926,10 +1221,25 @@
 "nota": 100,
 "ok": true
 },
+"58203357350": {
+"data": "2026-11-10",
+"nota": 82,
+"ok": true
+},
 "58203413810": {
 "data": "2026-11-06",
 "nota": 91,
 "ok": true
+},
+"58204642884": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"58204705757": {
+"data": "2026-11-10",
+"nota": 61,
+"ok": false
 },
 "58205266961": {
 "data": "2026-11-06",
@@ -939,6 +1249,11 @@
 "58205481810": {
 "data": "2026-11-05",
 "nota": 86,
+"ok": true
+},
+"58205560982": {
+"data": "2026-11-10",
+"nota": 100,
 "ok": true
 },
 "58207194547": {
@@ -986,6 +1301,11 @@
 "nota": 100,
 "ok": true
 },
+"58212777461": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "58213772607": {
 "data": "2026-11-05",
 "nota": 100,
@@ -1003,6 +1323,11 @@
 },
 "58214668571": {
 "data": "2026-11-05",
+"nota": 100,
+"ok": true
+},
+"58216433905": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -1061,6 +1386,11 @@
 "nota": 85,
 "ok": true
 },
+"58251960849": {
+"data": "2026-11-10",
+"nota": 97,
+"ok": true
+},
 "58252841983": {
 "data": "2026-11-07",
 "nota": 50,
@@ -1080,6 +1410,16 @@
 "data": "2026-11-05",
 "nota": 57,
 "ok": false
+},
+"58257036306": {
+"data": "2026-11-10",
+"nota": 76,
+"ok": false
+},
+"58257263745": {
+"data": "2026-11-10",
+"nota": 97,
+"ok": true
 },
 "58257621281": {
 "data": "2026-11-05",
@@ -1116,6 +1456,16 @@
 "nota": 99,
 "ok": true
 },
+"58262387632": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"58262782056": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "58262948832": {
 "data": "2026-11-07",
 "nota": 91,
@@ -1133,6 +1483,11 @@
 },
 "58264632349": {
 "data": "2026-11-08",
+"nota": 100,
+"ok": true
+},
+"58264684239": {
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -1170,6 +1525,31 @@
 "data": "2026-11-05",
 "nota": 50,
 "ok": false
+},
+"8020679826": {
+"data": "2026-11-10",
+"nota": 97,
+"ok": true
+},
+"8786125317": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"9554358075": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"9853949121": {
+"data": "2026-11-10",
+"nota": 99,
+"ok": true
+},
+"9971189005": {
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
 },
 "MLB12543508": {
 "categoria": "ferramentas",
@@ -1249,6 +1629,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB16079706": {
+"categoria": "pets",
+"data": "2026-11-10",
+"nota": 97,
+"ok": true
+},
 "MLB16088308": {
 "categoria": "beleza",
 "data": "2026-11-04",
@@ -1273,10 +1659,22 @@
 "nota": 96,
 "ok": true
 },
+"MLB18361062": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB18363111": {
 "categoria": "eletrodomesticos",
 "data": "2026-11-04",
 "nota": 100,
+"ok": true
+},
+"MLB18390535": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 89,
 "ok": true
 },
 "MLB18572364": {
@@ -1291,6 +1689,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB18623663": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-10",
+"nota": 87,
+"ok": true
+},
 "MLB18630341": {
 "categoria": "saude",
 "data": "2026-11-04",
@@ -1301,6 +1705,12 @@
 "categoria": "eletrodomesticos",
 "data": "2026-11-04",
 "nota": 87,
+"ok": true
+},
+"MLB18949520": {
+"categoria": "saude",
+"data": "2026-11-10",
+"nota": 99,
 "ok": true
 },
 "MLB18964467": {
@@ -1315,10 +1725,22 @@
 "nota": 96,
 "ok": true
 },
+"MLB19079445": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB19119113": {
 "categoria": "eletrodomesticos",
 "data": "2026-11-04",
 "nota": 90,
+"ok": true
+},
+"MLB19132270": {
+"categoria": "bebes",
+"data": "2026-11-10",
+"nota": 89,
 "ok": true
 },
 "MLB19140415": {
@@ -1343,6 +1765,12 @@
 "categoria": "saude",
 "data": "2026-11-04",
 "nota": 100,
+"ok": true
+},
+"MLB19559088": {
+"categoria": "casa",
+"data": "2026-11-10",
+"nota": 98,
 "ok": true
 },
 "MLB19559227": {
@@ -1387,6 +1815,18 @@
 "nota": 66,
 "ok": false
 },
+"MLB19769691": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"MLB19779441": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 85,
+"ok": true
+},
 "MLB19802405": {
 "categoria": "ferramentas",
 "data": "2026-11-06",
@@ -1426,6 +1866,18 @@
 "MLB20704214": {
 "categoria": "informatica",
 "data": "2026-11-07",
+"nota": 100,
+"ok": true
+},
+"MLB20918425": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 87,
+"ok": true
+},
+"MLB20997119": {
+"categoria": "automotivo",
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -1513,6 +1965,12 @@
 "nota": 67,
 "ok": false
 },
+"MLB23656109": {
+"categoria": "bebes",
+"data": "2026-11-10",
+"nota": 97,
+"ok": true
+},
 "MLB23857334": {
 "categoria": "bebes",
 "data": "2026-11-07",
@@ -1530,6 +1988,12 @@
 "data": "2026-11-04",
 "nota": 100,
 "ok": true
+},
+"MLB23900689": {
+"categoria": "automotivo",
+"data": "2026-11-10",
+"nota": 42,
+"ok": false
 },
 "MLB23958420": {
 "categoria": "casa",
@@ -1549,9 +2013,21 @@
 "nota": 98,
 "ok": true
 },
+"MLB24168050": {
+"categoria": "casa",
+"data": "2026-11-10",
+"nota": 99,
+"ok": true
+},
 "MLB24273255": {
 "categoria": "automotivo",
 "data": "2026-11-04",
+"nota": 100,
+"ok": true
+},
+"MLB24319274": {
+"categoria": "esportes",
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -1621,6 +2097,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB25907509": {
+"categoria": "eletronicos",
+"data": "2026-11-10",
+"nota": 100,
+"ok": false
+},
 "MLB25929487": {
 "categoria": "saude",
 "data": "2026-11-07",
@@ -1661,6 +2143,18 @@
 "categoria": "brinquedos",
 "data": "2026-11-05",
 "nota": 100,
+"ok": true
+},
+"MLB27056919": {
+"categoria": "bebes",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"MLB27136291": {
+"categoria": "pets",
+"data": "2026-11-10",
+"nota": 99,
 "ok": true
 },
 "MLB27262753": {
@@ -1705,6 +2199,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB29533571": {
+"categoria": "pets",
+"data": "2026-11-10",
+"nota": 84,
+"ok": true
+},
 "MLB29789180": {
 "categoria": "ferramentas",
 "data": "2026-11-06",
@@ -1723,11 +2223,29 @@
 "nota": 100,
 "ok": true
 },
+"MLB32339766": {
+"categoria": "automotivo",
+"data": "2026-11-10",
+"nota": 85,
+"ok": true
+},
+"MLB32974346": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-10",
+"nota": 85,
+"ok": true
+},
 "MLB33230345": {
 "categoria": "celulares",
 "data": "2026-11-06",
 "nota": 82,
 "ok": true
+},
+"MLB33407683": {
+"categoria": "informatica",
+"data": "2026-11-10",
+"nota": 0,
+"ok": false
 },
 "MLB34016199": {
 "categoria": "outros",
@@ -1795,6 +2313,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB36763274": {
+"categoria": "celulares",
+"data": "2026-11-10",
+"nota": 74,
+"ok": false
+},
 "MLB36931922": {
 "categoria": "beleza",
 "data": "2026-11-04",
@@ -1805,6 +2329,12 @@
 "categoria": "casa",
 "data": "2026-11-06",
 "nota": 97,
+"ok": true
+},
+"MLB37512147": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
 "ok": true
 },
 "MLB37700507": {
@@ -1819,10 +2349,28 @@
 "nota": 99,
 "ok": true
 },
+"MLB38070594": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"MLB38361449": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB38834125": {
 "categoria": "informatica",
 "data": "2026-11-07",
 "nota": 100,
+"ok": true
+},
+"MLB39116460": {
+"categoria": "ferramentas",
+"data": "2026-11-10",
+"nota": 95,
 "ok": true
 },
 "MLB39205913": {
@@ -1897,10 +2445,34 @@
 "nota": 100,
 "ok": false
 },
+"MLB42978348": {
+"categoria": "esportes",
+"data": "2026-11-10",
+"nota": 90,
+"ok": true
+},
 "MLB43201177": {
 "categoria": "eletrodomesticos",
 "data": "2026-11-08",
 "nota": 100,
+"ok": true
+},
+"MLB43456408": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-10",
+"nota": 89,
+"ok": true
+},
+"MLB43684505": {
+"categoria": "casa",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
+"MLB43818093": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 84,
 "ok": true
 },
 "MLB43954645": {
@@ -1945,6 +2517,12 @@
 "nota": 63,
 "ok": false
 },
+"MLB44439990": {
+"categoria": "pets",
+"data": "2026-11-10",
+"nota": 43,
+"ok": false
+},
 "MLB44463715": {
 "categoria": "beleza",
 "data": "2026-11-04",
@@ -1985,6 +2563,12 @@
 "categoria": "bebes",
 "data": "2026-11-06",
 "nota": 85,
+"ok": true
+},
+"MLB45819230": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
 "ok": true
 },
 "MLB45862017": {
@@ -2035,10 +2619,28 @@
 "nota": 82,
 "ok": true
 },
+"MLB47261742": {
+"categoria": "eletronicos",
+"data": "2026-11-10",
+"nota": 94,
+"ok": true
+},
+"MLB47352755": {
+"categoria": "celulares",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB47609067": {
 "categoria": "informatica",
 "data": "2026-11-06",
 "nota": 0,
+"ok": false
+},
+"MLB47820824": {
+"categoria": "saude",
+"data": "2026-11-10",
+"nota": 80,
 "ok": false
 },
 "MLB47900489": {
@@ -2052,6 +2654,12 @@
 "data": "2026-11-04",
 "nota": 87,
 "ok": true
+},
+"MLB48107384": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": false
 },
 "MLB48478097": {
 "categoria": "celulares",
@@ -2080,6 +2688,12 @@
 "MLB50092765": {
 "categoria": "beleza",
 "data": "2026-11-04",
+"nota": 100,
+"ok": true
+},
+"MLB50239012": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -2155,9 +2769,21 @@
 "nota": 100,
 "ok": true
 },
+"MLB51984760": {
+"categoria": "informatica",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB52363091": {
 "categoria": "beleza",
 "data": "2026-11-07",
+"nota": 100,
+"ok": true
+},
+"MLB52386184": {
+"categoria": "saude",
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -2197,6 +2823,12 @@
 "nota": 87,
 "ok": true
 },
+"MLB54018368": {
+"categoria": "bebes",
+"data": "2026-11-10",
+"nota": 91,
+"ok": true
+},
 "MLB54207427": {
 "categoria": "bebes",
 "data": "2026-11-06",
@@ -2207,6 +2839,12 @@
 "categoria": "pets",
 "data": "2026-11-07",
 "nota": 0,
+"ok": false
+},
+"MLB54457287": {
+"categoria": "informatica",
+"data": "2026-11-10",
+"nota": 70,
 "ok": false
 },
 "MLB54473693": {
@@ -2263,6 +2901,18 @@
 "nota": 100,
 "ok": true
 },
+"MLB56550237": {
+"categoria": "eletrodomesticos",
+"data": "2026-11-10",
+"nota": 69,
+"ok": false
+},
+"MLB56979786": {
+"categoria": "automotivo",
+"data": "2026-11-10",
+"nota": 81,
+"ok": true
+},
 "MLB57348431": {
 "data": "2026-11-04",
 "nota": 100,
@@ -2304,6 +2954,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB59802758": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB60118314": {
 "categoria": "brinquedos",
 "data": "2026-11-07",
@@ -2321,6 +2977,12 @@
 "data": "2026-11-04",
 "nota": 65,
 "ok": false
+},
+"MLB6106454": {
+"categoria": "automotivo",
+"data": "2026-11-10",
+"nota": 99,
+"ok": true
 },
 "MLB61319918": {
 "categoria": "eletrodomesticos",
@@ -2436,6 +3098,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB64176719": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB64179089": {
 "categoria": "brinquedos",
 "data": "2026-11-07",
@@ -2472,6 +3140,12 @@
 "nota": 85,
 "ok": true
 },
+"MLB65216168": {
+"categoria": "pets",
+"data": "2026-11-10",
+"nota": 44,
+"ok": false
+},
 "MLB65364752": {
 "categoria": "esportes",
 "data": "2026-11-04",
@@ -2483,6 +3157,12 @@
 "data": "2026-11-05",
 "nota": 100,
 "ok": true
+},
+"MLB65407451": {
+"categoria": "pets",
+"data": "2026-11-10",
+"nota": 70,
+"ok": false
 },
 "MLB65579852": {
 "categoria": "brinquedos",
@@ -2568,6 +3248,12 @@
 "nota": 66,
 "ok": false
 },
+"MLB67506538": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB67669706": {
 "categoria": "esportes",
 "data": "2026-11-07",
@@ -2604,6 +3290,12 @@
 "nota": 100,
 "ok": true
 },
+"MLB68855045": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB69251241": {
 "categoria": "brinquedos",
 "data": "2026-11-07",
@@ -2622,10 +3314,34 @@
 "nota": 90,
 "ok": true
 },
+"MLB69732212": {
+"categoria": "celulares",
+"data": "2026-11-10",
+"nota": 0,
+"ok": false
+},
+"MLB70054838": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 81,
+"ok": true
+},
 "MLB70063063": {
 "categoria": "bebes",
 "data": "2026-11-04",
 "nota": 77,
+"ok": true
+},
+"MLB70192456": {
+"categoria": "bebes",
+"data": "2026-11-10",
+"nota": 50,
+"ok": false
+},
+"MLB70242929": {
+"categoria": "bebes",
+"data": "2026-11-10",
+"nota": 100,
 "ok": true
 },
 "MLB70414253": {
@@ -2640,11 +3356,23 @@
 "nota": 94,
 "ok": true
 },
+"MLB72667712": {
+"categoria": "saude",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB72677735": {
 "categoria": "pets",
 "data": "2026-11-07",
 "nota": 69,
 "ok": false
+},
+"MLB72852959": {
+"categoria": "automotivo",
+"data": "2026-11-10",
+"nota": 86,
+"ok": true
 },
 "MLB73055309": {
 "categoria": "beleza",
@@ -2656,6 +3384,12 @@
 "categoria": "ferramentas",
 "data": "2026-11-06",
 "nota": 100,
+"ok": true
+},
+"MLB73125052": {
+"categoria": "brinquedos",
+"data": "2026-11-10",
+"nota": 97,
 "ok": true
 },
 "MLB73195575": {
@@ -2682,6 +3416,12 @@
 "nota": 96,
 "ok": true
 },
+"MLB74725743": {
+"categoria": "beleza",
+"data": "2026-11-10",
+"nota": 100,
+"ok": true
+},
 "MLB74743819": {
 "categoria": "brinquedos",
 "data": "2026-11-04",
@@ -2691,6 +3431,12 @@
 "MLB74824637": {
 "categoria": "saude",
 "data": "2026-11-04",
+"nota": 100,
+"ok": true
+},
+"MLB74887345": {
+"categoria": "outros",
+"data": "2026-11-10",
 "nota": 100,
 "ok": true
 },
@@ -2747,6 +3493,12 @@
 "data": "2026-11-07",
 "nota": 100,
 "ok": true
+},
+"MLB78002026": {
+"categoria": "casa",
+"data": "2026-11-10",
+"nota": 69,
+"ok": false
 },
 "MLB78452515": {
 "categoria": "brinquedos",
@@ -2807,6 +3559,12 @@
 "data": "2026-11-04",
 "nota": 97,
 "ok": true
+},
+"MLB81041922": {
+"categoria": "celulares",
+"data": "2026-11-10",
+"nota": 41,
+"ok": false
 },
 "MLB8736693": {
 "categoria": "beleza",
